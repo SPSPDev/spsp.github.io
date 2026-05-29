@@ -67,7 +67,7 @@ Settings → Pages → Source: "Deploy from a branch" → Branch: main → / (ro
 O GitHub leva entre 1 a 3 minutos para publicar
 A URL ficará disponível em:
 
-https://SEU_USUARIO.github.io/treinamento-phishing-spsp
+(https://spspdev.github.io/spsp.github.io/)
 5. Compartilhar com os colaboradores
 
 Copie a URL gerada e distribua via e-mail corporativo ou Teams
